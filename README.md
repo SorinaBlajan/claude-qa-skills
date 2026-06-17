@@ -43,3 +43,11 @@ xcopy /E /I claude-qa-skills\agents %USERPROFILE%\.claude\agents
 Then **restart Claude Code** for the skills and agents to load.
 
 ## Folder structure
+.claude/
+├── agents/
+│   └── test-cases.md
+└── skills/
+├── bug-report/
+│   └── SKILL.md
+└── pr-description/
+└── SKILL.md
