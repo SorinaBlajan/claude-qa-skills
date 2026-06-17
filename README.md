@@ -51,3 +51,21 @@ Then **restart Claude Code** for the skills and agents to load.
 │   └── SKILL.md
 └── pr-description/
 └── SKILL.md
+
+## Usage
+
+Once installed, just talk to Claude Code naturally:
+- write a bug report for the checkout button not working on mobile
+- write test cases for the login feature
+- write a PR description for my changes
+
+- Claude will automatically detect and apply the right skill or agent.
+
+## Contributing
+
+Feel free to open a PR if you want to add new skills or improve existing ones.
+New skill ideas for QA: `regression-checklist`, `api-test-cases`, `accessibility-checklist`.
+
+## License
+
+MIT
