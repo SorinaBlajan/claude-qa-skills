@@ -1,5 +1,5 @@
 ---
-name: bug-report-description
+name: bug-report
 description: Creates a structured bug report. Use when reporting a bug, logging an issue, documenting a defect, or when the user asks to write a bug report.
 allowed-tools: Read, Grep, Glob, Bash
 model: sonnet
