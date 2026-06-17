@@ -28,14 +28,14 @@ Stop repeating yourself — write it once, use it everywhere.
 
 ### Mac / Linux
 ```bash
-git clone https://github.com/your-username/claude-qa-skills.git
+git clone https://github.com/SorinaVladu/claude-qa-skills.git
 cp -r claude-qa-skills/skills ~/.claude/
 cp -r claude-qa-skills/agents ~/.claude/
 ```
 
 ### Windows
 ```cmd
-git clone https://github.com/your-username/claude-qa-skills.git
+git clone https://github.com/SorinaVladue/claude-qa-skills.git
 xcopy /E /I claude-qa-skills\skills %USERPROFILE%\.claude\skills
 xcopy /E /I claude-qa-skills\agents %USERPROFILE%\.claude\agents
 ```
